@@ -1,3 +1,5 @@
 This is Atish's Git Repo.
 Welcome to my Git Repo.
-Making some changes...
+Making some changes.
+
+New feature updated...
